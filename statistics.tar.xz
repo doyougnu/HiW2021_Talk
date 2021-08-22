@@ -1,0 +1,5 @@
+# HiW_2021_Talk
+by Jeffrey M. Young and Richard Eisenberg @Tweag
+
+# Directory Layout
+You'll find all the files needed in the `statistics` directory. I've removed the `log` files as they are too large even with compression for `github`. The associated `R` script should be enough for your needs. Don't hesitate to reach out to me (Jeff) if you have questions. You can find me on `irc` as `doyougnu` or twitter as `@do_you_gnu`
